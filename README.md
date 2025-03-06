@@ -8,7 +8,7 @@ In an era where computer programming skills are foundational, effective learning
 ![System Architecture](systemArchitecture.png)
 
 ## Usage
-- Clone the git repository : `git clone https://git.cs.bham.ac.uk/projects-2022-23/vxd213.git`
+- Clone the git repository : 'https://github.com/shreyu258/pyhton_lab_assistant.git'
 - Open any IDE and then open the cloned folder.
 - Install the requirements : `pip install -r requirements.txt`
 - Set the OpenAI API key in the config.py file
@@ -28,6 +28,6 @@ In an era where computer programming skills are foundational, effective learning
 
 ## References
 
-- [OpenAI](https://platform.openai.com/)
+- [GoogleAI](https://deepmind.google/technologies/gemini/)
 - [Python](https://www.python.org/)
 - [PyQt5](https://pypi.org/project/PyQt5/)
