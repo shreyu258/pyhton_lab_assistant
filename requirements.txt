@@ -1,0 +1,6 @@
+PyQt5
+PyQt5.QtWidgets
+PyQt5.QtCore
+google.generativeai
+os
+traceback
